@@ -20,9 +20,9 @@ const int ADC_CHANNEL_0 = 1; // Canal ADC para o eixo X
 const int ADC_CHANNEL_1 = 0;
 
 char *text[] = { // Mensagens a serem exibidas
-    "NOT",
     "AND",
     "OR",
+    "NOT",
     "NAND",
     "NOR",
     "XOR",
